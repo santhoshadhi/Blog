@@ -1,0 +1,23 @@
+body{
+    background-color:lightgrey;
+}
+
+.fa{
+    color:rgb(8, 179, 247);
+}
+.a{
+    border-bottom: 1px solid blue;
+}
+.box-part{
+    background-color: white;
+    margin: 20px ;
+    padding: 60px 10px;
+
+}
+.text{
+    margin: 20px 0px;
+}
+.box{
+    padding: 60px 0px;
+}
+
